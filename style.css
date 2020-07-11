@@ -1,0 +1,17 @@
+body{
+	background-color:blue;
+	text-align:center;
+}
+
+h1{
+	display:inline-block;
+	background: white;
+	color: black;
+	width:100px;
+	padding:10px;
+}
+
+button{
+	width:100px;
+	padding:10px;
+}
